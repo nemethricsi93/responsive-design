@@ -105,3 +105,16 @@ main {
 		max-width: 812px;
     }
 }
+
+@media (min-width: 1025px) {
+
+	header {
+		width: 20.625%;
+	}
+
+    main {
+        float: none;
+        position: absolute;
+        left: 20.625%;
+    }
+}
