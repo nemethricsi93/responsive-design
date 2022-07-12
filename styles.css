@@ -30,6 +30,7 @@ header p {
 
 main {
     background-color: rgba(140, 96, 255, .3);
+    width:50vw;
 }
 
 .article {
@@ -37,5 +38,5 @@ main {
 }
 
 .picture {
-    width:100%;
+    width: 100%;
 }
