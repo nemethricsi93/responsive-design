@@ -90,3 +90,18 @@ main {
 	font-size: 1.25rem;
 	color: #8c8e9b;
 }
+
+@media (min-width: 768px) {
+	header {
+        position: fixed;
+        top: 0;
+        height: 100%;
+        width: 33.3%;
+    }
+
+    main {
+        float: right;
+		width: 66.6%;
+		max-width: 812px;
+    }
+}
