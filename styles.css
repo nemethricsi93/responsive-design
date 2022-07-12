@@ -20,6 +20,7 @@ h2 {
 
 header {
     background-color: rgba(255, 248, 53, .3);
+    height:25vh;
 }
 
 header p {
