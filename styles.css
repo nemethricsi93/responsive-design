@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+
+
 body {
     font-family: 'Lora', serif;
     font-size: 1.125rem;
@@ -21,6 +26,8 @@ h2 {
 header {
     background-color: rgba(255, 248, 53, .3);
     height:25vh;
+    padding:1.25rem;
+    text-align: center;
 }
 
 header p {
