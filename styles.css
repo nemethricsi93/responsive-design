@@ -1,3 +1,11 @@
+body {
+    font-family: 'Lora', serif;
+}
+
+h1, h2 {
+    font-family: 'Open Sans', sans-serif;
+}
+
 header {
     background-color: rgba(255, 248, 53, .3);
 }
