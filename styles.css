@@ -1,6 +1,6 @@
 body {
     font-family: 'Lora', serif;
-    font-size: 18px;
+    font-size: 1.125rem;
     line-height: 32px;
     color: #333;
 }
@@ -10,11 +10,11 @@ h1, h2 {
 }
 
 h1 {
-    font-size:28.8px;
+    font-size:1.6rem;
 }
 
 h2 {
-    font-size: 25.6px;
+    font-size: 1.42rem;
     color: #e5127d;
 }
 
@@ -23,7 +23,7 @@ header {
 }
 
 header p {
-    font-size: 18px;
+    font-size: 1rem;
     letter-spacing: 2px;
     color: #8c8e9b;
 }
